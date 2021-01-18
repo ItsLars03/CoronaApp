@@ -117,4 +117,1261 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnStart.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btnStart.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt</value>
+  </data>
+  <data name="btnStart.Location" type="System.Drawing.Point, System.Drawing">
+    <value>130, 143</value>
+  </data>
+  <data name="btnStart.Size" type="System.Drawing.Size, System.Drawing">
+    <value>372, 35</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnStart.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="btnStart.Text" xml:space="preserve">
+    <value>klik hier om te beginnen met de test</value>
+  </data>
+  <data name="&gt;&gt;btnStart.Name" xml:space="preserve">
+    <value>btnStart</value>
+  </data>
+  <data name="&gt;&gt;btnStart.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnStart.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnStart.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag1.Name" xml:space="preserve">
+    <value>errorPanelVraag1</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag1.Parent" xml:space="preserve">
+    <value>pnlVraag1</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag2.Name" xml:space="preserve">
+    <value>pnlVraag2</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag2.Parent" xml:space="preserve">
+    <value>pnlVraag1</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnVraag1.Name" xml:space="preserve">
+    <value>btnVraag1</value>
+  </data>
+  <data name="&gt;&gt;btnVraag1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnVraag1.Parent" xml:space="preserve">
+    <value>pnlVraag1</value>
+  </data>
+  <data name="&gt;&gt;btnVraag1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;lblVraag1.Name" xml:space="preserve">
+    <value>lblVraag1</value>
+  </data>
+  <data name="&gt;&gt;lblVraag1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblVraag1.Parent" xml:space="preserve">
+    <value>pnlVraag1</value>
+  </data>
+  <data name="&gt;&gt;lblVraag1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag1NEE.Name" xml:space="preserve">
+    <value>rbtnVraag1NEE</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag1NEE.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag1NEE.Parent" xml:space="preserve">
+    <value>pnlVraag1</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag1NEE.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag1JA.Name" xml:space="preserve">
+    <value>rbtnVraag1JA</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag1JA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag1JA.Parent" xml:space="preserve">
+    <value>pnlVraag1</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag1JA.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="pnlVraag1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>94, 44</value>
+  </data>
+  <data name="pnlVraag1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>488, 200</value>
+  </data>
+  <data name="pnlVraag1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="pnlVraag1.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag1.Name" xml:space="preserve">
+    <value>pnlVraag1</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;errorLabel1.Name" xml:space="preserve">
+    <value>errorLabel1</value>
+  </data>
+  <data name="&gt;&gt;errorLabel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;errorLabel1.Parent" xml:space="preserve">
+    <value>errorPanelVraag1</value>
+  </data>
+  <data name="&gt;&gt;errorLabel1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="errorPanelVraag1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>220, 144</value>
+  </data>
+  <data name="errorPanelVraag1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>268, 32</value>
+  </data>
+  <data name="errorPanelVraag1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="errorPanelVraag1.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag1.Name" xml:space="preserve">
+    <value>errorPanelVraag1</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag1.Parent" xml:space="preserve">
+    <value>pnlVraag1</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="errorLabel1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="errorLabel1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="errorLabel1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="errorLabel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 2</value>
+  </data>
+  <data name="errorLabel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>267, 20</value>
+  </data>
+  <data name="errorLabel1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="errorLabel1.Text" xml:space="preserve">
+    <value>Er moet minimaal 1 geselecteerd zijn</value>
+  </data>
+  <data name="&gt;&gt;errorLabel1.Name" xml:space="preserve">
+    <value>errorLabel1</value>
+  </data>
+  <data name="&gt;&gt;errorLabel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;errorLabel1.Parent" xml:space="preserve">
+    <value>errorPanelVraag1</value>
+  </data>
+  <data name="&gt;&gt;errorLabel1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag2.Name" xml:space="preserve">
+    <value>errorPanelVraag2</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag2.Parent" xml:space="preserve">
+    <value>pnlVraag2</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag3.Name" xml:space="preserve">
+    <value>pnlVraag3</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag3.Parent" xml:space="preserve">
+    <value>pnlVraag2</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnVraag2.Name" xml:space="preserve">
+    <value>btnVraag2</value>
+  </data>
+  <data name="&gt;&gt;btnVraag2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnVraag2.Parent" xml:space="preserve">
+    <value>pnlVraag2</value>
+  </data>
+  <data name="&gt;&gt;btnVraag2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;lblVraag2.Name" xml:space="preserve">
+    <value>lblVraag2</value>
+  </data>
+  <data name="&gt;&gt;lblVraag2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblVraag2.Parent" xml:space="preserve">
+    <value>pnlVraag2</value>
+  </data>
+  <data name="&gt;&gt;lblVraag2.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag2NEE.Name" xml:space="preserve">
+    <value>rbtnVraag2NEE</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag2NEE.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag2NEE.Parent" xml:space="preserve">
+    <value>pnlVraag2</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag2NEE.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag2JA.Name" xml:space="preserve">
+    <value>rbtnVraag2JA</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag2JA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag2JA.Parent" xml:space="preserve">
+    <value>pnlVraag2</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag2JA.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="pnlVraag2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="pnlVraag2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>488, 200</value>
+  </data>
+  <data name="pnlVraag2.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="pnlVraag2.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag2.Name" xml:space="preserve">
+    <value>pnlVraag2</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag2.Parent" xml:space="preserve">
+    <value>pnlVraag1</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;errorLabel2.Name" xml:space="preserve">
+    <value>errorLabel2</value>
+  </data>
+  <data name="&gt;&gt;errorLabel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;errorLabel2.Parent" xml:space="preserve">
+    <value>errorPanelVraag2</value>
+  </data>
+  <data name="&gt;&gt;errorLabel2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="errorPanelVraag2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>217, 144</value>
+  </data>
+  <data name="errorPanelVraag2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>268, 32</value>
+  </data>
+  <data name="errorPanelVraag2.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="errorPanelVraag2.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag2.Name" xml:space="preserve">
+    <value>errorPanelVraag2</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag2.Parent" xml:space="preserve">
+    <value>pnlVraag2</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="errorLabel2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="errorLabel2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="errorLabel2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="errorLabel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 2</value>
+  </data>
+  <data name="errorLabel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>267, 20</value>
+  </data>
+  <data name="errorLabel2.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="errorLabel2.Text" xml:space="preserve">
+    <value>Er moet minimaal 1 geselecteerd zijn</value>
+  </data>
+  <data name="&gt;&gt;errorLabel2.Name" xml:space="preserve">
+    <value>errorLabel2</value>
+  </data>
+  <data name="&gt;&gt;errorLabel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;errorLabel2.Parent" xml:space="preserve">
+    <value>errorPanelVraag2</value>
+  </data>
+  <data name="&gt;&gt;errorLabel2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag4.Name" xml:space="preserve">
+    <value>pnlVraag4</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag4.Parent" xml:space="preserve">
+    <value>pnlVraag3</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag4.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag3.Name" xml:space="preserve">
+    <value>errorPanelVraag3</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag3.Parent" xml:space="preserve">
+    <value>pnlVraag3</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnVraag3.Name" xml:space="preserve">
+    <value>btnVraag3</value>
+  </data>
+  <data name="&gt;&gt;btnVraag3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnVraag3.Parent" xml:space="preserve">
+    <value>pnlVraag3</value>
+  </data>
+  <data name="&gt;&gt;btnVraag3.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;lblVraag3.Name" xml:space="preserve">
+    <value>lblVraag3</value>
+  </data>
+  <data name="&gt;&gt;lblVraag3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblVraag3.Parent" xml:space="preserve">
+    <value>pnlVraag3</value>
+  </data>
+  <data name="&gt;&gt;lblVraag3.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag3NEE.Name" xml:space="preserve">
+    <value>rbtnVraag3NEE</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag3NEE.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag3NEE.Parent" xml:space="preserve">
+    <value>pnlVraag3</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag3NEE.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag3JA.Name" xml:space="preserve">
+    <value>rbtnVraag3JA</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag3JA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag3JA.Parent" xml:space="preserve">
+    <value>pnlVraag3</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag3JA.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="pnlVraag3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="pnlVraag3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>488, 200</value>
+  </data>
+  <data name="pnlVraag3.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="pnlVraag3.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag3.Name" xml:space="preserve">
+    <value>pnlVraag3</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag3.Parent" xml:space="preserve">
+    <value>pnlVraag2</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;lblVraag.Name" xml:space="preserve">
+    <value>lblVraag</value>
+  </data>
+  <data name="&gt;&gt;lblVraag.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblVraag.Parent" xml:space="preserve">
+    <value>pnlVraag4</value>
+  </data>
+  <data name="&gt;&gt;lblVraag.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tbVraag4.Name" xml:space="preserve">
+    <value>tbVraag4</value>
+  </data>
+  <data name="&gt;&gt;tbVraag4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbVraag4.Parent" xml:space="preserve">
+    <value>pnlVraag4</value>
+  </data>
+  <data name="&gt;&gt;tbVraag4.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag4.Name" xml:space="preserve">
+    <value>errorPanelVraag4</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag4.Parent" xml:space="preserve">
+    <value>pnlVraag4</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag4.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;btnVraag4.Name" xml:space="preserve">
+    <value>btnVraag4</value>
+  </data>
+  <data name="&gt;&gt;btnVraag4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnVraag4.Parent" xml:space="preserve">
+    <value>pnlVraag4</value>
+  </data>
+  <data name="&gt;&gt;btnVraag4.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;lblVraag4.Name" xml:space="preserve">
+    <value>lblVraag4</value>
+  </data>
+  <data name="&gt;&gt;lblVraag4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblVraag4.Parent" xml:space="preserve">
+    <value>pnlVraag4</value>
+  </data>
+  <data name="&gt;&gt;lblVraag4.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="pnlVraag4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="pnlVraag4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>488, 200</value>
+  </data>
+  <data name="pnlVraag4.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="pnlVraag4.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag4.Name" xml:space="preserve">
+    <value>pnlVraag4</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag4.Parent" xml:space="preserve">
+    <value>pnlVraag3</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag4.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lblVraag.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblVraag.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 26.25pt</value>
+  </data>
+  <data name="lblVraag.Location" type="System.Drawing.Point, System.Drawing">
+    <value>217, 93</value>
+  </data>
+  <data name="lblVraag.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 39</value>
+  </data>
+  <data name="lblVraag.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="lblVraag.Text" xml:space="preserve">
+    <value>℃</value>
+  </data>
+  <data name="&gt;&gt;lblVraag.Name" xml:space="preserve">
+    <value>lblVraag</value>
+  </data>
+  <data name="&gt;&gt;lblVraag.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblVraag.Parent" xml:space="preserve">
+    <value>pnlVraag4</value>
+  </data>
+  <data name="&gt;&gt;lblVraag.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tbVraag4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt</value>
+  </data>
+  <data name="tbVraag4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>127, 99</value>
+  </data>
+  <data name="tbVraag4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>87, 31</value>
+  </data>
+  <data name="tbVraag4.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;tbVraag4.Name" xml:space="preserve">
+    <value>tbVraag4</value>
+  </data>
+  <data name="&gt;&gt;tbVraag4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbVraag4.Parent" xml:space="preserve">
+    <value>pnlVraag4</value>
+  </data>
+  <data name="&gt;&gt;tbVraag4.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;errorLabel4.Name" xml:space="preserve">
+    <value>errorLabel4</value>
+  </data>
+  <data name="&gt;&gt;errorLabel4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;errorLabel4.Parent" xml:space="preserve">
+    <value>errorPanelVraag4</value>
+  </data>
+  <data name="&gt;&gt;errorLabel4.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="errorPanelVraag4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>217, 138</value>
+  </data>
+  <data name="errorPanelVraag4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>268, 49</value>
+  </data>
+  <data name="errorPanelVraag4.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="errorPanelVraag4.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag4.Name" xml:space="preserve">
+    <value>errorPanelVraag4</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag4.Parent" xml:space="preserve">
+    <value>pnlVraag4</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag4.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="errorLabel4.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="errorLabel4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="errorLabel4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="errorLabel4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 2</value>
+  </data>
+  <data name="errorLabel4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>272, 60</value>
+  </data>
+  <data name="errorLabel4.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="errorLabel4.Text" xml:space="preserve">
+    <value>vul een getal tussen de 32 en 44 in
+gebruik een komma inplaats van punt
+
+</value>
+  </data>
+  <data name="&gt;&gt;errorLabel4.Name" xml:space="preserve">
+    <value>errorLabel4</value>
+  </data>
+  <data name="&gt;&gt;errorLabel4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;errorLabel4.Parent" xml:space="preserve">
+    <value>errorPanelVraag4</value>
+  </data>
+  <data name="&gt;&gt;errorLabel4.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnVraag4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnVraag4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>125, 138</value>
+  </data>
+  <data name="btnVraag4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 23</value>
+  </data>
+  <data name="btnVraag4.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btnVraag4.Text" xml:space="preserve">
+    <value>naar advies</value>
+  </data>
+  <data name="&gt;&gt;btnVraag4.Name" xml:space="preserve">
+    <value>btnVraag4</value>
+  </data>
+  <data name="&gt;&gt;btnVraag4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnVraag4.Parent" xml:space="preserve">
+    <value>pnlVraag4</value>
+  </data>
+  <data name="&gt;&gt;btnVraag4.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lblVraag4.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblVraag4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt</value>
+  </data>
+  <data name="lblVraag4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblVraag4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>122, 68</value>
+  </data>
+  <data name="lblVraag4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>323, 25</value>
+  </data>
+  <data name="lblVraag4.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lblVraag4.Text" xml:space="preserve">
+    <value>Wat is uw lichaamstemperatuur?</value>
+  </data>
+  <data name="&gt;&gt;lblVraag4.Name" xml:space="preserve">
+    <value>lblVraag4</value>
+  </data>
+  <data name="&gt;&gt;lblVraag4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblVraag4.Parent" xml:space="preserve">
+    <value>pnlVraag4</value>
+  </data>
+  <data name="&gt;&gt;lblVraag4.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;errorLabel3.Name" xml:space="preserve">
+    <value>errorLabel3</value>
+  </data>
+  <data name="&gt;&gt;errorLabel3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;errorLabel3.Parent" xml:space="preserve">
+    <value>errorPanelVraag3</value>
+  </data>
+  <data name="&gt;&gt;errorLabel3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="errorPanelVraag3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>217, 144</value>
+  </data>
+  <data name="errorPanelVraag3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>268, 32</value>
+  </data>
+  <data name="errorPanelVraag3.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="errorPanelVraag3.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag3.Name" xml:space="preserve">
+    <value>errorPanelVraag3</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag3.Parent" xml:space="preserve">
+    <value>pnlVraag3</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="errorLabel3.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="errorLabel3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="errorLabel3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="errorLabel3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 2</value>
+  </data>
+  <data name="errorLabel3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>267, 20</value>
+  </data>
+  <data name="errorLabel3.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="errorLabel3.Text" xml:space="preserve">
+    <value>Er moet minimaal 1 geselecteerd zijn</value>
+  </data>
+  <data name="&gt;&gt;errorLabel3.Name" xml:space="preserve">
+    <value>errorLabel3</value>
+  </data>
+  <data name="&gt;&gt;errorLabel3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;errorLabel3.Parent" xml:space="preserve">
+    <value>errorPanelVraag3</value>
+  </data>
+  <data name="&gt;&gt;errorLabel3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnVraag3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnVraag3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>125, 144</value>
+  </data>
+  <data name="btnVraag3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>89, 23</value>
+  </data>
+  <data name="btnVraag3.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btnVraag3.Text" xml:space="preserve">
+    <value>volgende vraag</value>
+  </data>
+  <data name="&gt;&gt;btnVraag3.Name" xml:space="preserve">
+    <value>btnVraag3</value>
+  </data>
+  <data name="&gt;&gt;btnVraag3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnVraag3.Parent" xml:space="preserve">
+    <value>pnlVraag3</value>
+  </data>
+  <data name="&gt;&gt;btnVraag3.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lblVraag3.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblVraag3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt</value>
+  </data>
+  <data name="lblVraag3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblVraag3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>120, 70</value>
+  </data>
+  <data name="lblVraag3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>193, 25</value>
+  </data>
+  <data name="lblVraag3.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lblVraag3.Text" xml:space="preserve">
+    <value>Bent u verkouden?</value>
+  </data>
+  <data name="&gt;&gt;lblVraag3.Name" xml:space="preserve">
+    <value>lblVraag3</value>
+  </data>
+  <data name="&gt;&gt;lblVraag3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblVraag3.Parent" xml:space="preserve">
+    <value>pnlVraag3</value>
+  </data>
+  <data name="&gt;&gt;lblVraag3.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="rbtnVraag3NEE.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rbtnVraag3NEE.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="rbtnVraag3NEE.Location" type="System.Drawing.Point, System.Drawing">
+    <value>125, 121</value>
+  </data>
+  <data name="rbtnVraag3NEE.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 17</value>
+  </data>
+  <data name="rbtnVraag3NEE.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="rbtnVraag3NEE.Text" xml:space="preserve">
+    <value>NEE</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag3NEE.Name" xml:space="preserve">
+    <value>rbtnVraag3NEE</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag3NEE.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag3NEE.Parent" xml:space="preserve">
+    <value>pnlVraag3</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag3NEE.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="rbtnVraag3JA.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rbtnVraag3JA.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="rbtnVraag3JA.Location" type="System.Drawing.Point, System.Drawing">
+    <value>125, 98</value>
+  </data>
+  <data name="rbtnVraag3JA.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 17</value>
+  </data>
+  <data name="rbtnVraag3JA.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="rbtnVraag3JA.Text" xml:space="preserve">
+    <value>JA</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag3JA.Name" xml:space="preserve">
+    <value>rbtnVraag3JA</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag3JA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag3JA.Parent" xml:space="preserve">
+    <value>pnlVraag3</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag3JA.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="btnVraag2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>125, 143</value>
+  </data>
+  <data name="btnVraag2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>89, 23</value>
+  </data>
+  <data name="btnVraag2.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btnVraag2.Text" xml:space="preserve">
+    <value>volgende vraag</value>
+  </data>
+  <data name="&gt;&gt;btnVraag2.Name" xml:space="preserve">
+    <value>btnVraag2</value>
+  </data>
+  <data name="&gt;&gt;btnVraag2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnVraag2.Parent" xml:space="preserve">
+    <value>pnlVraag2</value>
+  </data>
+  <data name="&gt;&gt;btnVraag2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lblVraag2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblVraag2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt</value>
+  </data>
+  <data name="lblVraag2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>120, 70</value>
+  </data>
+  <data name="lblVraag2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>229, 25</value>
+  </data>
+  <data name="lblVraag2.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lblVraag2.Text" xml:space="preserve">
+    <value>Heeft u een loopneus?</value>
+  </data>
+  <data name="&gt;&gt;lblVraag2.Name" xml:space="preserve">
+    <value>lblVraag2</value>
+  </data>
+  <data name="&gt;&gt;lblVraag2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblVraag2.Parent" xml:space="preserve">
+    <value>pnlVraag2</value>
+  </data>
+  <data name="&gt;&gt;lblVraag2.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="rbtnVraag2NEE.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rbtnVraag2NEE.Location" type="System.Drawing.Point, System.Drawing">
+    <value>125, 121</value>
+  </data>
+  <data name="rbtnVraag2NEE.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 17</value>
+  </data>
+  <data name="rbtnVraag2NEE.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="rbtnVraag2NEE.Text" xml:space="preserve">
+    <value>NEE</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag2NEE.Name" xml:space="preserve">
+    <value>rbtnVraag2NEE</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag2NEE.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag2NEE.Parent" xml:space="preserve">
+    <value>pnlVraag2</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag2NEE.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="rbtnVraag2JA.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rbtnVraag2JA.Location" type="System.Drawing.Point, System.Drawing">
+    <value>125, 98</value>
+  </data>
+  <data name="rbtnVraag2JA.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 17</value>
+  </data>
+  <data name="rbtnVraag2JA.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="rbtnVraag2JA.Text" xml:space="preserve">
+    <value>JA</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag2JA.Name" xml:space="preserve">
+    <value>rbtnVraag2JA</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag2JA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag2JA.Parent" xml:space="preserve">
+    <value>pnlVraag2</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag2JA.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="btnVraag1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnVraag1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>125, 144</value>
+  </data>
+  <data name="btnVraag1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 23</value>
+  </data>
+  <data name="btnVraag1.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btnVraag1.Text" xml:space="preserve">
+    <value>Volgende vraag</value>
+  </data>
+  <data name="&gt;&gt;btnVraag1.Name" xml:space="preserve">
+    <value>btnVraag1</value>
+  </data>
+  <data name="&gt;&gt;btnVraag1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnVraag1.Parent" xml:space="preserve">
+    <value>pnlVraag1</value>
+  </data>
+  <data name="&gt;&gt;btnVraag1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lblVraag1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblVraag1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt</value>
+  </data>
+  <data name="lblVraag1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>120, 70</value>
+  </data>
+  <data name="lblVraag1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>229, 25</value>
+  </data>
+  <data name="lblVraag1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lblVraag1.Text" xml:space="preserve">
+    <value>Heeft u een zere keel?</value>
+  </data>
+  <data name="&gt;&gt;lblVraag1.Name" xml:space="preserve">
+    <value>lblVraag1</value>
+  </data>
+  <data name="&gt;&gt;lblVraag1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblVraag1.Parent" xml:space="preserve">
+    <value>pnlVraag1</value>
+  </data>
+  <data name="&gt;&gt;lblVraag1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="rbtnVraag1NEE.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rbtnVraag1NEE.Location" type="System.Drawing.Point, System.Drawing">
+    <value>125, 121</value>
+  </data>
+  <data name="rbtnVraag1NEE.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 17</value>
+  </data>
+  <data name="rbtnVraag1NEE.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="rbtnVraag1NEE.Text" xml:space="preserve">
+    <value>NEE</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag1NEE.Name" xml:space="preserve">
+    <value>rbtnVraag1NEE</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag1NEE.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag1NEE.Parent" xml:space="preserve">
+    <value>pnlVraag1</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag1NEE.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="rbtnVraag1JA.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rbtnVraag1JA.Location" type="System.Drawing.Point, System.Drawing">
+    <value>125, 98</value>
+  </data>
+  <data name="rbtnVraag1JA.Size" type="System.Drawing.Size, System.Drawing">
+    <value>37, 17</value>
+  </data>
+  <data name="rbtnVraag1JA.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="rbtnVraag1JA.Text" xml:space="preserve">
+    <value>JA</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag1JA.Name" xml:space="preserve">
+    <value>rbtnVraag1JA</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag1JA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag1JA.Parent" xml:space="preserve">
+    <value>pnlVraag1</value>
+  </data>
+  <data name="&gt;&gt;rbtnVraag1JA.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="imgGGD.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 247</value>
+  </data>
+  <data name="imgGGD.Size" type="System.Drawing.Size, System.Drawing">
+    <value>106, 102</value>
+  </data>
+  <data name="imgGGD.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;imgGGD.Name" xml:space="preserve">
+    <value>imgGGD</value>
+  </data>
+  <data name="&gt;&gt;imgGGD.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;imgGGD.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;imgGGD.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btnReset.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt</value>
+  </data>
+  <data name="btnReset.Location" type="System.Drawing.Point, System.Drawing">
+    <value>217, 138</value>
+  </data>
+  <data name="btnReset.Size" type="System.Drawing.Size, System.Drawing">
+    <value>113, 35</value>
+  </data>
+  <data name="btnReset.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="btnReset.Text" xml:space="preserve">
+    <value>opnieuw?</value>
+  </data>
+  <data name="&gt;&gt;btnReset.Name" xml:space="preserve">
+    <value>btnReset</value>
+  </data>
+  <data name="&gt;&gt;btnReset.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnReset.Parent" xml:space="preserve">
+    <value>pnlAdvies</value>
+  </data>
+  <data name="&gt;&gt;btnReset.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lblAdvies.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="lblAdvies.Location" type="System.Drawing.Point, System.Drawing">
+    <value>120, 34</value>
+  </data>
+  <data name="lblAdvies.Size" type="System.Drawing.Size, System.Drawing">
+    <value>312, 101</value>
+  </data>
+  <data name="lblAdvies.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="lblAdvies.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblAdvies.Name" xml:space="preserve">
+    <value>lblAdvies</value>
+  </data>
+  <data name="&gt;&gt;lblAdvies.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblAdvies.Parent" xml:space="preserve">
+    <value>pnlAdvies</value>
+  </data>
+  <data name="&gt;&gt;lblAdvies.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="pnlAdvies.Location" type="System.Drawing.Point, System.Drawing">
+    <value>42, 44</value>
+  </data>
+  <data name="pnlAdvies.Size" type="System.Drawing.Size, System.Drawing">
+    <value>540, 200</value>
+  </data>
+  <data name="pnlAdvies.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="pnlAdvies.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;pnlAdvies.Name" xml:space="preserve">
+    <value>pnlAdvies</value>
+  </data>
+  <data name="&gt;&gt;pnlAdvies.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlAdvies.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pnlAdvies.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>628, 358</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>corona-applicatie</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>MainScreen</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
