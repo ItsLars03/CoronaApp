@@ -118,5 +118,10 @@ namespace corona_app
             tbVraag4.Text = "";
             lblAdvies.Text = "";
         }
+
+        private void pnlAdvies_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
