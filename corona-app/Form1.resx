@@ -126,10 +126,13 @@
     <value>Microsoft Sans Serif, 15.75pt</value>
   </data>
   <data name="btnStart.Location" type="System.Drawing.Point, System.Drawing">
-    <value>130, 143</value>
+    <value>260, 275</value>
+  </data>
+  <data name="btnStart.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="btnStart.Size" type="System.Drawing.Size, System.Drawing">
-    <value>372, 35</value>
+    <value>744, 67</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="btnStart.TabIndex" type="System.Int32, mscorlib">
@@ -150,138 +153,6 @@
   <data name="&gt;&gt;btnStart.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="&gt;&gt;errorPanelVraag1.Name" xml:space="preserve">
-    <value>errorPanelVraag1</value>
-  </data>
-  <data name="&gt;&gt;errorPanelVraag1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;errorPanelVraag1.Parent" xml:space="preserve">
-    <value>pnlVraag1</value>
-  </data>
-  <data name="&gt;&gt;errorPanelVraag1.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;pnlVraag2.Name" xml:space="preserve">
-    <value>pnlVraag2</value>
-  </data>
-  <data name="&gt;&gt;pnlVraag2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlVraag2.Parent" xml:space="preserve">
-    <value>pnlVraag1</value>
-  </data>
-  <data name="&gt;&gt;pnlVraag2.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;btnVraag1.Name" xml:space="preserve">
-    <value>btnVraag1</value>
-  </data>
-  <data name="&gt;&gt;btnVraag1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnVraag1.Parent" xml:space="preserve">
-    <value>pnlVraag1</value>
-  </data>
-  <data name="&gt;&gt;btnVraag1.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;lblVraag1.Name" xml:space="preserve">
-    <value>lblVraag1</value>
-  </data>
-  <data name="&gt;&gt;lblVraag1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblVraag1.Parent" xml:space="preserve">
-    <value>pnlVraag1</value>
-  </data>
-  <data name="&gt;&gt;lblVraag1.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;rbtnVraag1NEE.Name" xml:space="preserve">
-    <value>rbtnVraag1NEE</value>
-  </data>
-  <data name="&gt;&gt;rbtnVraag1NEE.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;rbtnVraag1NEE.Parent" xml:space="preserve">
-    <value>pnlVraag1</value>
-  </data>
-  <data name="&gt;&gt;rbtnVraag1NEE.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;rbtnVraag1JA.Name" xml:space="preserve">
-    <value>rbtnVraag1JA</value>
-  </data>
-  <data name="&gt;&gt;rbtnVraag1JA.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;rbtnVraag1JA.Parent" xml:space="preserve">
-    <value>pnlVraag1</value>
-  </data>
-  <data name="&gt;&gt;rbtnVraag1JA.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="pnlVraag1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>94, 44</value>
-  </data>
-  <data name="pnlVraag1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>488, 200</value>
-  </data>
-  <data name="pnlVraag1.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="pnlVraag1.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="&gt;&gt;pnlVraag1.Name" xml:space="preserve">
-    <value>pnlVraag1</value>
-  </data>
-  <data name="&gt;&gt;pnlVraag1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlVraag1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;pnlVraag1.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;errorLabel1.Name" xml:space="preserve">
-    <value>errorLabel1</value>
-  </data>
-  <data name="&gt;&gt;errorLabel1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;errorLabel1.Parent" xml:space="preserve">
-    <value>errorPanelVraag1</value>
-  </data>
-  <data name="&gt;&gt;errorLabel1.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="errorPanelVraag1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>220, 144</value>
-  </data>
-  <data name="errorPanelVraag1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>268, 32</value>
-  </data>
-  <data name="errorPanelVraag1.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="errorPanelVraag1.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="&gt;&gt;errorPanelVraag1.Name" xml:space="preserve">
-    <value>errorPanelVraag1</value>
-  </data>
-  <data name="&gt;&gt;errorPanelVraag1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;errorPanelVraag1.Parent" xml:space="preserve">
-    <value>pnlVraag1</value>
-  </data>
-  <data name="&gt;&gt;errorPanelVraag1.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
   <data name="errorLabel1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -292,10 +163,13 @@
     <value>NoControl</value>
   </data>
   <data name="errorLabel1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 2</value>
+    <value>0, 4</value>
+  </data>
+  <data name="errorLabel1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 0, 6, 0</value>
   </data>
   <data name="errorLabel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>267, 20</value>
+    <value>538, 37</value>
   </data>
   <data name="errorLabel1.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -315,136 +189,31 @@
   <data name="&gt;&gt;errorLabel1.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="&gt;&gt;errorPanelVraag2.Name" xml:space="preserve">
-    <value>errorPanelVraag2</value>
+  <data name="errorPanelVraag1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>440, 277</value>
   </data>
-  <data name="&gt;&gt;errorPanelVraag2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="errorPanelVraag1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
-  <data name="&gt;&gt;errorPanelVraag2.Parent" xml:space="preserve">
-    <value>pnlVraag2</value>
+  <data name="errorPanelVraag1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>536, 62</value>
   </data>
-  <data name="&gt;&gt;errorPanelVraag2.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;pnlVraag3.Name" xml:space="preserve">
-    <value>pnlVraag3</value>
-  </data>
-  <data name="&gt;&gt;pnlVraag3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlVraag3.Parent" xml:space="preserve">
-    <value>pnlVraag2</value>
-  </data>
-  <data name="&gt;&gt;pnlVraag3.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;btnVraag2.Name" xml:space="preserve">
-    <value>btnVraag2</value>
-  </data>
-  <data name="&gt;&gt;btnVraag2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnVraag2.Parent" xml:space="preserve">
-    <value>pnlVraag2</value>
-  </data>
-  <data name="&gt;&gt;btnVraag2.ZOrder" xml:space="preserve">
+  <data name="errorPanelVraag1.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
-  <data name="&gt;&gt;lblVraag2.Name" xml:space="preserve">
-    <value>lblVraag2</value>
-  </data>
-  <data name="&gt;&gt;lblVraag2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblVraag2.Parent" xml:space="preserve">
-    <value>pnlVraag2</value>
-  </data>
-  <data name="&gt;&gt;lblVraag2.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;rbtnVraag2NEE.Name" xml:space="preserve">
-    <value>rbtnVraag2NEE</value>
-  </data>
-  <data name="&gt;&gt;rbtnVraag2NEE.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;rbtnVraag2NEE.Parent" xml:space="preserve">
-    <value>pnlVraag2</value>
-  </data>
-  <data name="&gt;&gt;rbtnVraag2NEE.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;rbtnVraag2JA.Name" xml:space="preserve">
-    <value>rbtnVraag2JA</value>
-  </data>
-  <data name="&gt;&gt;rbtnVraag2JA.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;rbtnVraag2JA.Parent" xml:space="preserve">
-    <value>pnlVraag2</value>
-  </data>
-  <data name="&gt;&gt;rbtnVraag2JA.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="pnlVraag2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="pnlVraag2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>488, 200</value>
-  </data>
-  <data name="pnlVraag2.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="pnlVraag2.Visible" type="System.Boolean, mscorlib">
+  <data name="errorPanelVraag1.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
   </data>
-  <data name="&gt;&gt;pnlVraag2.Name" xml:space="preserve">
-    <value>pnlVraag2</value>
+  <data name="&gt;&gt;errorPanelVraag1.Name" xml:space="preserve">
+    <value>errorPanelVraag1</value>
   </data>
-  <data name="&gt;&gt;pnlVraag2.Type" xml:space="preserve">
+  <data name="&gt;&gt;errorPanelVraag1.Type" xml:space="preserve">
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pnlVraag2.Parent" xml:space="preserve">
+  <data name="&gt;&gt;errorPanelVraag1.Parent" xml:space="preserve">
     <value>pnlVraag1</value>
   </data>
-  <data name="&gt;&gt;pnlVraag2.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;errorLabel2.Name" xml:space="preserve">
-    <value>errorLabel2</value>
-  </data>
-  <data name="&gt;&gt;errorLabel2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;errorLabel2.Parent" xml:space="preserve">
-    <value>errorPanelVraag2</value>
-  </data>
-  <data name="&gt;&gt;errorLabel2.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="errorPanelVraag2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>217, 144</value>
-  </data>
-  <data name="errorPanelVraag2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>268, 32</value>
-  </data>
-  <data name="errorPanelVraag2.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="errorPanelVraag2.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="&gt;&gt;errorPanelVraag2.Name" xml:space="preserve">
-    <value>errorPanelVraag2</value>
-  </data>
-  <data name="&gt;&gt;errorPanelVraag2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;errorPanelVraag2.Parent" xml:space="preserve">
-    <value>pnlVraag2</value>
-  </data>
-  <data name="&gt;&gt;errorPanelVraag2.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;errorPanelVraag1.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <data name="errorLabel2.AutoSize" type="System.Boolean, mscorlib">
@@ -457,10 +226,13 @@
     <value>NoControl</value>
   </data>
   <data name="errorLabel2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 2</value>
+    <value>0, 4</value>
+  </data>
+  <data name="errorLabel2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 0, 6, 0</value>
   </data>
   <data name="errorLabel2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>267, 20</value>
+    <value>538, 37</value>
   </data>
   <data name="errorLabel2.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -480,184 +252,31 @@
   <data name="&gt;&gt;errorLabel2.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="&gt;&gt;pnlVraag4.Name" xml:space="preserve">
-    <value>pnlVraag4</value>
+  <data name="errorPanelVraag2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>434, 277</value>
   </data>
-  <data name="&gt;&gt;pnlVraag4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="errorPanelVraag2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
-  <data name="&gt;&gt;pnlVraag4.Parent" xml:space="preserve">
-    <value>pnlVraag3</value>
+  <data name="errorPanelVraag2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>536, 62</value>
   </data>
-  <data name="&gt;&gt;pnlVraag4.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;errorPanelVraag3.Name" xml:space="preserve">
-    <value>errorPanelVraag3</value>
-  </data>
-  <data name="&gt;&gt;errorPanelVraag3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;errorPanelVraag3.Parent" xml:space="preserve">
-    <value>pnlVraag3</value>
-  </data>
-  <data name="&gt;&gt;errorPanelVraag3.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;btnVraag3.Name" xml:space="preserve">
-    <value>btnVraag3</value>
-  </data>
-  <data name="&gt;&gt;btnVraag3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnVraag3.Parent" xml:space="preserve">
-    <value>pnlVraag3</value>
-  </data>
-  <data name="&gt;&gt;btnVraag3.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;lblVraag3.Name" xml:space="preserve">
-    <value>lblVraag3</value>
-  </data>
-  <data name="&gt;&gt;lblVraag3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblVraag3.Parent" xml:space="preserve">
-    <value>pnlVraag3</value>
-  </data>
-  <data name="&gt;&gt;lblVraag3.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;rbtnVraag3NEE.Name" xml:space="preserve">
-    <value>rbtnVraag3NEE</value>
-  </data>
-  <data name="&gt;&gt;rbtnVraag3NEE.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;rbtnVraag3NEE.Parent" xml:space="preserve">
-    <value>pnlVraag3</value>
-  </data>
-  <data name="&gt;&gt;rbtnVraag3NEE.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;rbtnVraag3JA.Name" xml:space="preserve">
-    <value>rbtnVraag3JA</value>
-  </data>
-  <data name="&gt;&gt;rbtnVraag3JA.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;rbtnVraag3JA.Parent" xml:space="preserve">
-    <value>pnlVraag3</value>
-  </data>
-  <data name="&gt;&gt;rbtnVraag3JA.ZOrder" xml:space="preserve">
+  <data name="errorPanelVraag2.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
   </data>
-  <data name="pnlVraag3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="pnlVraag3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>488, 200</value>
-  </data>
-  <data name="pnlVraag3.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="pnlVraag3.Visible" type="System.Boolean, mscorlib">
+  <data name="errorPanelVraag2.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
   </data>
-  <data name="&gt;&gt;pnlVraag3.Name" xml:space="preserve">
-    <value>pnlVraag3</value>
+  <data name="&gt;&gt;errorPanelVraag2.Name" xml:space="preserve">
+    <value>errorPanelVraag2</value>
   </data>
-  <data name="&gt;&gt;pnlVraag3.Type" xml:space="preserve">
+  <data name="&gt;&gt;errorPanelVraag2.Type" xml:space="preserve">
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;pnlVraag3.Parent" xml:space="preserve">
+  <data name="&gt;&gt;errorPanelVraag2.Parent" xml:space="preserve">
     <value>pnlVraag2</value>
   </data>
-  <data name="&gt;&gt;pnlVraag3.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;lblVraag.Name" xml:space="preserve">
-    <value>lblVraag</value>
-  </data>
-  <data name="&gt;&gt;lblVraag.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblVraag.Parent" xml:space="preserve">
-    <value>pnlVraag4</value>
-  </data>
-  <data name="&gt;&gt;lblVraag.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;tbVraag4.Name" xml:space="preserve">
-    <value>tbVraag4</value>
-  </data>
-  <data name="&gt;&gt;tbVraag4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tbVraag4.Parent" xml:space="preserve">
-    <value>pnlVraag4</value>
-  </data>
-  <data name="&gt;&gt;tbVraag4.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;errorPanelVraag4.Name" xml:space="preserve">
-    <value>errorPanelVraag4</value>
-  </data>
-  <data name="&gt;&gt;errorPanelVraag4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;errorPanelVraag4.Parent" xml:space="preserve">
-    <value>pnlVraag4</value>
-  </data>
-  <data name="&gt;&gt;errorPanelVraag4.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;btnVraag4.Name" xml:space="preserve">
-    <value>btnVraag4</value>
-  </data>
-  <data name="&gt;&gt;btnVraag4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnVraag4.Parent" xml:space="preserve">
-    <value>pnlVraag4</value>
-  </data>
-  <data name="&gt;&gt;btnVraag4.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;lblVraag4.Name" xml:space="preserve">
-    <value>lblVraag4</value>
-  </data>
-  <data name="&gt;&gt;lblVraag4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblVraag4.Parent" xml:space="preserve">
-    <value>pnlVraag4</value>
-  </data>
-  <data name="&gt;&gt;lblVraag4.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="pnlVraag4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="pnlVraag4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>488, 200</value>
-  </data>
-  <data name="pnlVraag4.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="pnlVraag4.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="&gt;&gt;pnlVraag4.Name" xml:space="preserve">
-    <value>pnlVraag4</value>
-  </data>
-  <data name="&gt;&gt;pnlVraag4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pnlVraag4.Parent" xml:space="preserve">
-    <value>pnlVraag3</value>
-  </data>
-  <data name="&gt;&gt;pnlVraag4.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;errorPanelVraag2.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <data name="lblVraag.AutoSize" type="System.Boolean, mscorlib">
@@ -667,10 +286,13 @@
     <value>Microsoft Sans Serif, 26.25pt</value>
   </data>
   <data name="lblVraag.Location" type="System.Drawing.Point, System.Drawing">
-    <value>217, 93</value>
+    <value>434, 179</value>
+  </data>
+  <data name="lblVraag.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 0, 6, 0</value>
   </data>
   <data name="lblVraag.Size" type="System.Drawing.Size, System.Drawing">
-    <value>45, 39</value>
+    <value>92, 79</value>
   </data>
   <data name="lblVraag.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -694,10 +316,13 @@
     <value>Microsoft Sans Serif, 15.75pt</value>
   </data>
   <data name="tbVraag4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>127, 99</value>
+    <value>254, 190</value>
+  </data>
+  <data name="tbVraag4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="tbVraag4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>87, 31</value>
+    <value>170, 55</value>
   </data>
   <data name="tbVraag4.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -714,42 +339,6 @@
   <data name="&gt;&gt;tbVraag4.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="&gt;&gt;errorLabel4.Name" xml:space="preserve">
-    <value>errorLabel4</value>
-  </data>
-  <data name="&gt;&gt;errorLabel4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;errorLabel4.Parent" xml:space="preserve">
-    <value>errorPanelVraag4</value>
-  </data>
-  <data name="&gt;&gt;errorLabel4.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="errorPanelVraag4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>217, 138</value>
-  </data>
-  <data name="errorPanelVraag4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>268, 49</value>
-  </data>
-  <data name="errorPanelVraag4.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="errorPanelVraag4.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="&gt;&gt;errorPanelVraag4.Name" xml:space="preserve">
-    <value>errorPanelVraag4</value>
-  </data>
-  <data name="&gt;&gt;errorPanelVraag4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;errorPanelVraag4.Parent" xml:space="preserve">
-    <value>pnlVraag4</value>
-  </data>
-  <data name="&gt;&gt;errorPanelVraag4.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
   <data name="errorLabel4.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -760,10 +349,13 @@
     <value>NoControl</value>
   </data>
   <data name="errorLabel4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 2</value>
+    <value>0, 4</value>
+  </data>
+  <data name="errorLabel4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 0, 6, 0</value>
   </data>
   <data name="errorLabel4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>272, 60</value>
+    <value>550, 111</value>
   </data>
   <data name="errorLabel4.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -786,14 +378,44 @@ gebruik een komma inplaats van punt
   <data name="&gt;&gt;errorLabel4.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
+  <data name="errorPanelVraag4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>434, 265</value>
+  </data>
+  <data name="errorPanelVraag4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
+  </data>
+  <data name="errorPanelVraag4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>536, 94</value>
+  </data>
+  <data name="errorPanelVraag4.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="errorPanelVraag4.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag4.Name" xml:space="preserve">
+    <value>errorPanelVraag4</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag4.Parent" xml:space="preserve">
+    <value>pnlVraag4</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag4.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
   <data name="btnVraag4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="btnVraag4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>125, 138</value>
+    <value>250, 265</value>
+  </data>
+  <data name="btnVraag4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="btnVraag4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>90, 23</value>
+    <value>180, 44</value>
   </data>
   <data name="btnVraag4.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -823,10 +445,13 @@ gebruik een komma inplaats van punt
     <value>NoControl</value>
   </data>
   <data name="lblVraag4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>122, 68</value>
+    <value>244, 131</value>
+  </data>
+  <data name="lblVraag4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 0, 6, 0</value>
   </data>
   <data name="lblVraag4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>323, 25</value>
+    <value>626, 48</value>
   </data>
   <data name="lblVraag4.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -846,41 +471,32 @@ gebruik een komma inplaats van punt
   <data name="&gt;&gt;lblVraag4.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
-  <data name="&gt;&gt;errorLabel3.Name" xml:space="preserve">
-    <value>errorLabel3</value>
+  <data name="pnlVraag4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
   </data>
-  <data name="&gt;&gt;errorLabel3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="pnlVraag4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
-  <data name="&gt;&gt;errorLabel3.Parent" xml:space="preserve">
-    <value>errorPanelVraag3</value>
+  <data name="pnlVraag4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>976, 385</value>
   </data>
-  <data name="&gt;&gt;errorLabel3.ZOrder" xml:space="preserve">
-    <value>0</value>
+  <data name="pnlVraag4.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
   </data>
-  <data name="errorPanelVraag3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>217, 144</value>
-  </data>
-  <data name="errorPanelVraag3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>268, 32</value>
-  </data>
-  <data name="errorPanelVraag3.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="errorPanelVraag3.Visible" type="System.Boolean, mscorlib">
+  <data name="pnlVraag4.Visible" type="System.Boolean, mscorlib">
     <value>False</value>
   </data>
-  <data name="&gt;&gt;errorPanelVraag3.Name" xml:space="preserve">
-    <value>errorPanelVraag3</value>
+  <data name="&gt;&gt;pnlVraag4.Name" xml:space="preserve">
+    <value>pnlVraag4</value>
   </data>
-  <data name="&gt;&gt;errorPanelVraag3.Type" xml:space="preserve">
+  <data name="&gt;&gt;pnlVraag4.Type" xml:space="preserve">
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;errorPanelVraag3.Parent" xml:space="preserve">
+  <data name="&gt;&gt;pnlVraag4.Parent" xml:space="preserve">
     <value>pnlVraag3</value>
   </data>
-  <data name="&gt;&gt;errorPanelVraag3.ZOrder" xml:space="preserve">
-    <value>1</value>
+  <data name="&gt;&gt;pnlVraag4.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <data name="errorLabel3.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -892,10 +508,13 @@ gebruik een komma inplaats van punt
     <value>NoControl</value>
   </data>
   <data name="errorLabel3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 2</value>
+    <value>0, 4</value>
+  </data>
+  <data name="errorLabel3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 0, 6, 0</value>
   </data>
   <data name="errorLabel3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>267, 20</value>
+    <value>538, 37</value>
   </data>
   <data name="errorLabel3.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -915,14 +534,44 @@ gebruik een komma inplaats van punt
   <data name="&gt;&gt;errorLabel3.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
+  <data name="errorPanelVraag3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>434, 277</value>
+  </data>
+  <data name="errorPanelVraag3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
+  </data>
+  <data name="errorPanelVraag3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>536, 62</value>
+  </data>
+  <data name="errorPanelVraag3.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="errorPanelVraag3.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag3.Name" xml:space="preserve">
+    <value>errorPanelVraag3</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag3.Parent" xml:space="preserve">
+    <value>pnlVraag3</value>
+  </data>
+  <data name="&gt;&gt;errorPanelVraag3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
   <data name="btnVraag3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="btnVraag3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>125, 144</value>
+    <value>250, 277</value>
+  </data>
+  <data name="btnVraag3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="btnVraag3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>89, 23</value>
+    <value>178, 44</value>
   </data>
   <data name="btnVraag3.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -952,10 +601,13 @@ gebruik een komma inplaats van punt
     <value>NoControl</value>
   </data>
   <data name="lblVraag3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>120, 70</value>
+    <value>240, 135</value>
+  </data>
+  <data name="lblVraag3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 0, 6, 0</value>
   </data>
   <data name="lblVraag3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>193, 25</value>
+    <value>368, 48</value>
   </data>
   <data name="lblVraag3.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -982,10 +634,13 @@ gebruik een komma inplaats van punt
     <value>NoControl</value>
   </data>
   <data name="rbtnVraag3NEE.Location" type="System.Drawing.Point, System.Drawing">
-    <value>125, 121</value>
+    <value>250, 233</value>
+  </data>
+  <data name="rbtnVraag3NEE.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="rbtnVraag3NEE.Size" type="System.Drawing.Size, System.Drawing">
-    <value>47, 17</value>
+    <value>86, 29</value>
   </data>
   <data name="rbtnVraag3NEE.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -1012,10 +667,13 @@ gebruik een komma inplaats van punt
     <value>NoControl</value>
   </data>
   <data name="rbtnVraag3JA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>125, 98</value>
+    <value>250, 188</value>
+  </data>
+  <data name="rbtnVraag3JA.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="rbtnVraag3JA.Size" type="System.Drawing.Size, System.Drawing">
-    <value>37, 17</value>
+    <value>68, 29</value>
   </data>
   <data name="rbtnVraag3JA.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -1035,11 +693,41 @@ gebruik een komma inplaats van punt
   <data name="&gt;&gt;rbtnVraag3JA.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
+  <data name="pnlVraag3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="pnlVraag3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
+  </data>
+  <data name="pnlVraag3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>976, 385</value>
+  </data>
+  <data name="pnlVraag3.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="pnlVraag3.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag3.Name" xml:space="preserve">
+    <value>pnlVraag3</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag3.Parent" xml:space="preserve">
+    <value>pnlVraag2</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
   <data name="btnVraag2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>125, 143</value>
+    <value>250, 275</value>
+  </data>
+  <data name="btnVraag2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="btnVraag2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>89, 23</value>
+    <value>178, 44</value>
   </data>
   <data name="btnVraag2.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -1066,10 +754,13 @@ gebruik een komma inplaats van punt
     <value>Microsoft Sans Serif, 15.75pt</value>
   </data>
   <data name="lblVraag2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>120, 70</value>
+    <value>240, 135</value>
+  </data>
+  <data name="lblVraag2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 0, 6, 0</value>
   </data>
   <data name="lblVraag2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>229, 25</value>
+    <value>437, 48</value>
   </data>
   <data name="lblVraag2.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -1093,10 +784,13 @@ gebruik een komma inplaats van punt
     <value>True</value>
   </data>
   <data name="rbtnVraag2NEE.Location" type="System.Drawing.Point, System.Drawing">
-    <value>125, 121</value>
+    <value>250, 233</value>
+  </data>
+  <data name="rbtnVraag2NEE.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="rbtnVraag2NEE.Size" type="System.Drawing.Size, System.Drawing">
-    <value>47, 17</value>
+    <value>86, 29</value>
   </data>
   <data name="rbtnVraag2NEE.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -1120,10 +814,13 @@ gebruik een komma inplaats van punt
     <value>True</value>
   </data>
   <data name="rbtnVraag2JA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>125, 98</value>
+    <value>250, 188</value>
+  </data>
+  <data name="rbtnVraag2JA.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="rbtnVraag2JA.Size" type="System.Drawing.Size, System.Drawing">
-    <value>37, 17</value>
+    <value>68, 29</value>
   </data>
   <data name="rbtnVraag2JA.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -1143,14 +840,44 @@ gebruik een komma inplaats van punt
   <data name="&gt;&gt;rbtnVraag2JA.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
+  <data name="pnlVraag2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="pnlVraag2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
+  </data>
+  <data name="pnlVraag2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>976, 385</value>
+  </data>
+  <data name="pnlVraag2.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="pnlVraag2.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag2.Name" xml:space="preserve">
+    <value>pnlVraag2</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag2.Parent" xml:space="preserve">
+    <value>pnlVraag1</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
   <data name="btnVraag1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="btnVraag1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>125, 144</value>
+    <value>250, 277</value>
+  </data>
+  <data name="btnVraag1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="btnVraag1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>90, 23</value>
+    <value>180, 44</value>
   </data>
   <data name="btnVraag1.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -1177,10 +904,13 @@ gebruik een komma inplaats van punt
     <value>Microsoft Sans Serif, 15.75pt</value>
   </data>
   <data name="lblVraag1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>120, 70</value>
+    <value>240, 135</value>
+  </data>
+  <data name="lblVraag1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 0, 6, 0</value>
   </data>
   <data name="lblVraag1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>229, 25</value>
+    <value>437, 48</value>
   </data>
   <data name="lblVraag1.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -1204,10 +934,13 @@ gebruik een komma inplaats van punt
     <value>True</value>
   </data>
   <data name="rbtnVraag1NEE.Location" type="System.Drawing.Point, System.Drawing">
-    <value>125, 121</value>
+    <value>250, 233</value>
+  </data>
+  <data name="rbtnVraag1NEE.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="rbtnVraag1NEE.Size" type="System.Drawing.Size, System.Drawing">
-    <value>47, 17</value>
+    <value>86, 29</value>
   </data>
   <data name="rbtnVraag1NEE.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -1231,10 +964,13 @@ gebruik een komma inplaats van punt
     <value>True</value>
   </data>
   <data name="rbtnVraag1JA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>125, 98</value>
+    <value>250, 188</value>
+  </data>
+  <data name="rbtnVraag1JA.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="rbtnVraag1JA.Size" type="System.Drawing.Size, System.Drawing">
-    <value>37, 17</value>
+    <value>68, 29</value>
   </data>
   <data name="rbtnVraag1JA.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -1254,11 +990,41 @@ gebruik een komma inplaats van punt
   <data name="&gt;&gt;rbtnVraag1JA.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
+  <data name="pnlVraag1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>188, 85</value>
+  </data>
+  <data name="pnlVraag1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
+  </data>
+  <data name="pnlVraag1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>976, 385</value>
+  </data>
+  <data name="pnlVraag1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="pnlVraag1.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag1.Name" xml:space="preserve">
+    <value>pnlVraag1</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pnlVraag1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
   <data name="imgGGD.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 247</value>
+    <value>24, 475</value>
+  </data>
+  <data name="imgGGD.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 0, 6, 0</value>
   </data>
   <data name="imgGGD.Size" type="System.Drawing.Size, System.Drawing">
-    <value>106, 102</value>
+    <value>212, 196</value>
   </data>
   <data name="imgGGD.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -1279,16 +1045,19 @@ gebruik een komma inplaats van punt
     <value>Microsoft Sans Serif, 15.75pt</value>
   </data>
   <data name="btnReset.Location" type="System.Drawing.Point, System.Drawing">
-    <value>217, 138</value>
+    <value>434, 265</value>
+  </data>
+  <data name="btnReset.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="btnReset.Size" type="System.Drawing.Size, System.Drawing">
-    <value>113, 35</value>
+    <value>226, 67</value>
   </data>
   <data name="btnReset.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
   </data>
   <data name="btnReset.Text" xml:space="preserve">
-    <value>opnieuw?</value>
+    <value>Opnieuw?</value>
   </data>
   <data name="&gt;&gt;btnReset.Name" xml:space="preserve">
     <value>btnReset</value>
@@ -1306,10 +1075,13 @@ gebruik een komma inplaats van punt
     <value>Microsoft Sans Serif, 12pt</value>
   </data>
   <data name="lblAdvies.Location" type="System.Drawing.Point, System.Drawing">
-    <value>120, 34</value>
+    <value>240, 65</value>
+  </data>
+  <data name="lblAdvies.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 0, 6, 0</value>
   </data>
   <data name="lblAdvies.Size" type="System.Drawing.Size, System.Drawing">
-    <value>312, 101</value>
+    <value>624, 194</value>
   </data>
   <data name="lblAdvies.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -1330,10 +1102,13 @@ gebruik een komma inplaats van punt
     <value>1</value>
   </data>
   <data name="pnlAdvies.Location" type="System.Drawing.Point, System.Drawing">
-    <value>42, 44</value>
+    <value>84, 85</value>
+  </data>
+  <data name="pnlAdvies.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="pnlAdvies.Size" type="System.Drawing.Size, System.Drawing">
-    <value>540, 200</value>
+    <value>1080, 385</value>
   </data>
   <data name="pnlAdvies.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
@@ -1357,10 +1132,13 @@ gebruik een komma inplaats van punt
     <value>True</value>
   </metadata>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>6, 13</value>
+    <value>12, 25</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>628, 358</value>
+    <value>1256, 688</value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 6, 6, 6</value>
   </data>
   <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
     <value>CenterScreen</value>
