@@ -61,8 +61,8 @@ namespace corona_app
             this.rbtnVraag1JA = new System.Windows.Forms.RadioButton();
             this.imgGGD = new System.Windows.Forms.Label();
             this.pnlAdvies = new System.Windows.Forms.Panel();
-            this.lblAdvies = new System.Windows.Forms.Label();
             this.btnReset = new System.Windows.Forms.Button();
+            this.lblAdvies = new System.Windows.Forms.Label();
             this.pnlVraag1.SuspendLayout();
             this.errorPanelVraag1.SuspendLayout();
             this.pnlVraag2.SuspendLayout();
@@ -308,12 +308,7 @@ namespace corona_app
             this.pnlAdvies.Controls.Add(this.lblAdvies);
             resources.ApplyResources(this.pnlAdvies, "pnlAdvies");
             this.pnlAdvies.Name = "pnlAdvies";
-            // 
-            // lblAdvies
-            // 
-            this.lblAdvies.BackColor = System.Drawing.Color.White;
-            resources.ApplyResources(this.lblAdvies, "lblAdvies");
-            this.lblAdvies.Name = "lblAdvies";
+            this.pnlAdvies.Paint += new System.Windows.Forms.PaintEventHandler(this.pnlAdvies_Paint);
             // 
             // btnReset
             // 
@@ -323,6 +318,12 @@ namespace corona_app
             this.btnReset.Name = "btnReset";
             this.btnReset.UseVisualStyleBackColor = false;
             this.btnReset.Click += new System.EventHandler(this.btnReset_Click);
+            // 
+            // lblAdvies
+            // 
+            this.lblAdvies.BackColor = System.Drawing.Color.White;
+            resources.ApplyResources(this.lblAdvies, "lblAdvies");
+            this.lblAdvies.Name = "lblAdvies";
             // 
             // MainScreen
             // 
