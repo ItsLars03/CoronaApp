@@ -94,7 +94,7 @@ namespace corona_app
                 errorPanelVraag4.Hide();
                 if ((temperatuur <= 36.5 || temperatuur >= 37.5) || rbtnVraag1JA.Checked == true || rbtnVraag2JA.Checked == true || rbtnVraag3JA.Checked == true)
                 {
-                    lblAdvies.Text = "Blijf thuis, bel de GGD en laat je testen";
+                    lblAdvies.Text = "Blijf thuis houdt 1,5 meter afstand, was je handen kapot en bel de GGD en laat je testen";
                 } else
                 {
                     lblAdvies.Text = "Niks aan de hand";
